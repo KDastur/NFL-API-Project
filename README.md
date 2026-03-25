@@ -7,7 +7,7 @@ This program can display single player stats, compare 2 or more player stats, so
 ## Example Output
 Player Comparison
 (Jahmyr Gibbs, Bijan Robinson, and Derrick Henry)
-```
+```text
             RushingYards  ReceivingYards  PassingYards
 Name                                                  
 J.Gibbs           1385.7           697.9           0.0
@@ -18,7 +18,7 @@ D.Henry           1807.1           170.0           0.0
 Sorting by position
 (QB, PassingYards)
 
-```
+```text
            Position  PassingYards
 Name                             
 M.Stafford       QB        5333.0
