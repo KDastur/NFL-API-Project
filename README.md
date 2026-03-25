@@ -33,13 +33,13 @@ C.Williams       QB        4466.3
 ## Example Plots
 
 ### Running Backs Plot
-![Running Backs](Images/Running%20Backs.png)
+<img src="Images/Running%20Backs.png" alt="Running Backs" width="400">
 
 ### QBs Plot
-![QBs](Images/QBs.png)
+<img src="Images/QBs.png" alt="QBs" width="400">
 
 ### Player Comparison Plot
-![Player Comparison](Images/Player%20Comparison.png)
+<img src="Images/Player%20Comparison.png" alt="Player Comparison" width="400">
 
 ## Skills Demonstrated
 - Python programming
