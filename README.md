@@ -50,3 +50,9 @@ C.Williams       QB        4466.3
 - Basic data visualization with matplotlib
 - Filtering, sorting, and comparing datasets
 - Creating professional plots for analysis
+
+## Technologies Used
+- Python
+- pandas
+- matplotlib
+- requests
